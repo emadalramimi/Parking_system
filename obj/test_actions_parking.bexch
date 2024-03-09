@@ -1,0 +1,22 @@
+[GENERATED OBJECT FILE]
+b__test_actions_parking.o
+[PROJECT FILES]
+C:\Users\alram\OneDrive\comp\BUT-Info\S1\S1.01\Semaine2\semaine2.gpr
+20221025133840 ca9c70783012cd2b01c9f258144825f1
+[BOUND OBJECT FILES]
+C:\Users\alram\OneDrive\comp\BUT-Info\S1\S1.01\Semaine2\obj\voiture.o
+C:\Users\alram\OneDrive\comp\BUT-Info\S1\S1.01\Semaine2\obj\parking.o
+C:\Users\alram\OneDrive\comp\BUT-Info\S1\S1.01\Semaine2\obj\actions_parking.o
+C:\Users\alram\OneDrive\comp\BUT-Info\S1\S1.01\Semaine2\obj\test_actions_parking.o
+[GENERATED SOURCE FILES]
+b__test_actions_parking.ads
+b__test_actions_parking.adb
+b__test_actions_parking.ali
+[RESULTING OPTIONS]
+-LC:\Users\alram\OneDrive\comp\BUT-Info\S1\S1.01\Semaine2\obj\
+-LC:\Users\alram\OneDrive\comp\BUT-Info\S1\S1.01\Semaine2\obj\
+-LC:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnat.a
+-Wl,--stack=0x2000000

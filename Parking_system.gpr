@@ -1,0 +1,8 @@
+project Semaine2 is
+
+   for Source_Dirs use ("src");
+   for Object_Dir use "obj";
+   for Main use ("menu.adb", "test_actions_parking.adb", "test_parking.adb", "test.adb", "main.adb");
+
+end Semaine2;
+
